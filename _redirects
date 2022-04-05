@@ -1,7 +1,5 @@
 # Redirects from blog.fishtownanalytics.com -> getdbt.com/blog/ 
 
-/ https://getdbt.com/blog/
-
 /five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce https://getdbt.com/blog/five-principles-that-will-keep-your-data-warehouse-organized/
 
 /dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2 https://getdbt.com/blog/dbt-v0-14-0-better-serving-our-users/
@@ -99,3 +97,6 @@
 /analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289 https://getdbt.com/blog/modeling-subscription-revenue/
 
 /welcome-youre-now-a-software-developer/ https://getdbt.com/blog/welcome-youre-now-a-software-developer/
+
+# All other blog posts
+/*     https://www.getdbt.com/blog/:splat     301!
